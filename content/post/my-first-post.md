@@ -8,4 +8,4 @@ draft = false
 
 **BOLD** **BOLD** **BOLD**
 
-Visit [the](https://google.com)
+Visit the [me page](/about/)
